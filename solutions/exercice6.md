@@ -1,4 +1,4 @@
-liste des commendes utilisés
+liste des commendes utilisés <br>
 ls : permet de lister le contenu d'un repertoire ou dossier
 mkdir -p : permet de crée de dossier en arborécence
 cd : permet d'ouvrire un dossier
